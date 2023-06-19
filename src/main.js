@@ -1,6 +1,6 @@
-import {createApp} from 'vue';
+import Vue from 'vue';
 import App from './App.vue';
 
-const app = createApp(App);
+const app = new Vue();
 
-app._mount('#app')
+app.$mount('#app')
