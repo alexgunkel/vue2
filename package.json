@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexgunkel/vue2/issues"
   },
-  "homepage": "https://github.com/alexgunkel/vue2#readme"
+  "homepage": "https://github.com/alexgunkel/vue2#readme",
+  "dependencies": {
+    "vue": "^2.7.14"
+  }
 }
